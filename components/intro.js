@@ -7,7 +7,7 @@ export default function Intro() {
         * Andrei *
       </h5>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Make your business to success with me!        
+        You can visit my Successful projects in here.
       </h4>
     </section>
   )

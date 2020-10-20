@@ -6,7 +6,7 @@ export default function PostBody({ content }) {
       <div
         className={markdownStyles['markdown']}
         dangerouslySetInnerHTML={{ __html: content }}
-      />
+      /> 
     </div>
   )
 }
