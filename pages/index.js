@@ -26,6 +26,7 @@ export default function Index({ allPosts }) {
               author={heroPost.author}
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
+              siteUrl={heroPost.siteUrl}
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
@@ -43,6 +44,7 @@ export async function getStaticProps() {
     'author',
     'coverImage',
     'excerpt',
+    'siteUrl',
   ])
 
   return {
