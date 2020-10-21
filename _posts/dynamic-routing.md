@@ -14,7 +14,9 @@ ogImage:
 
 ## About Site
 
-
+This site is getting profite by providing coupon and deals.
+There are a lot of coupon systems in this worlds, and Site have to high level performane in digital age.
+Also It have to has perfect responsive and user friendly UI.
 
 ## Technologies
 Good Performance, SEO friendly, Perfect Responsive, PWA, Google Extension.
