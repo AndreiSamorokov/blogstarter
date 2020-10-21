@@ -9,14 +9,14 @@ export default function PostHeader({ title, videoUrl, coverImage, date, author }
     <div>
       <PostTitle>{title}</PostTitle> 
       <div className="mb-8 md:mb-16 sm:mx-0">
-        {videoUrl == '' 
+        {videoUrl
           ? <LoadVideo title={title} src={videoUrl} />
           : <CoverImage title={title} src={coverImage} /> 
         }
       </div>
       <div className="max-w-2xl mx-auto"> 
         <div className="mb-6 text-lg">
-          <DateFormatter dateString={date} />
+        {date}
         </div>
       </div>
     </div>
