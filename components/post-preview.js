@@ -10,6 +10,7 @@ export default function PostPreview({
   excerpt,
   author,
   slug,
+  siteUrl,
 }) {
   return (
     <div>
@@ -22,9 +23,13 @@ export default function PostPreview({
         </Link>
       </h3>
       <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
+        {/* <DateFormatter dateString={date} /> */}
+        {date}
       </div>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <Link href={siteUrl}>
+        <a className="hover:underline vistsite_link">Visit site  </a>
+      </Link>
     </div>
   )
 }

@@ -3,10 +3,10 @@ title: 'Coupon Service Site'
 excerpt: 'This site is getting profit by providing the coupon codes and deals. SEO friendly, Perfect Responsive, Good performance was Main techs used for this site building.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 videoUrl: ''
-siteUrl: 'https://www.cosavfx.com/'
-date: '2020-03-16T05:35:07.322Z'
+siteUrl: 'https://www.azcoupon.it/'
+date: '2019.12 ~ 2020.3'
 author:
-  name: JJ Kasper
+  name: andrei
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
