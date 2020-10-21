@@ -11,7 +11,7 @@ export default function Footer() {
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">            
             <a
-              href={`skype:evgeniy1128?chat`}
+              href={``}
               className="mx-3 font-bold hover:underline"
             >
               Contact Via Skype
