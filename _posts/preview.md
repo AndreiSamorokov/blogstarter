@@ -1,6 +1,6 @@
 ---
 title: 'Iberica Travel'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'Travel Agency Site, you can vis'
 coverImage: '/assets/blog/preview/cover.jpg'
 videoUrl: 'https://iberica-travel.com/files/homevideo.mp4'
 siteUrl: 'https://iberica-travel.com/'
@@ -12,10 +12,25 @@ ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## About site
+They said
+"Spain is one of the most popular tourist destinations in Europe and offers the perfect holiday package in one: the Iberian culture, beautiful coastlines, amazing cities and historical monuments create an impeccable atmosphere throughout the year.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Our objective here is to organize your stay in the Iberian Peninsula, - whether you are coming for two-week group tour around Spain and Portugal, choose to have customized package for your group or organize a private event for your company. 
 
-## Lorem Ipsum
+Explore our travel packages through the different regions of Spain and Portugal, from the southern heat of Andalusia where the Mediterranean Sea meets the Atlantic, to the enchanting, wild northern coast between Galicia and the Pyrenees. Many of our tours extend to the exotic regions of Morocco as well. 
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+If you would like to come to Spain as a group, we will create a new tour and program to suit your requirements. For inspiration take a look at our group tour samples and let us know what you are looking for. Our team will find the perfect solution to meet your expectations and budget.
+
+Conferences and meetings, hotels, transfers, excursions, entertainments and night life - Iberica Travel will gladly customize a package for your corporate event.
+
+Contact us now via email, phone or skype.
+
+Whatever choice you make, one thing is for sure: you will never forget your visit to Spain.
+
+Welcome and enjoy this amazing destination with us."
+## Technologies
+Custom CMS, SEO friendly, Perfect Responsive
+
+### Additional Skills
+PHP, HTML, CSS. JAVASCRIPT
