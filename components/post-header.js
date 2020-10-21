@@ -9,7 +9,6 @@ export default function PostHeader({ title, videoUrl, coverImage, date, author }
     <div>
       <PostTitle>{title}</PostTitle> 
       <div className="mb-8 md:mb-16 sm:mx-0">
-        {/* <CoverImage title={title} src={coverImage} /> */}
         {videoUrl == '' 
           ? <LoadVideo title={title} src={videoUrl} />
           : <CoverImage title={title} src={coverImage} /> 
