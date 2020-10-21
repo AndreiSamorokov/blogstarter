@@ -27,7 +27,7 @@ export default function HeroPost({
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
               <Link href={siteUrl}>
-                <a className="hover:underline vistsite_link">Visit site </a>
+                <a className="hover:underline vistsite_link">Visit site  </a>
               </Link>
           </div>
         </div>
