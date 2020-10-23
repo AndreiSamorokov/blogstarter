@@ -7,7 +7,7 @@ export default function Intro() {
         A@NAM
       </h5>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        You can visit my Successful projects in here.
+        You can take a look my some of the Successful projects here.
       </h4>
     </section>
   )
