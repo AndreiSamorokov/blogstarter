@@ -4,7 +4,7 @@ excerpt: 'Wordpress site for COSA company that is providing full service visual 
 coverImage: '/assets/blog/hello-world/cover.jpg'
 videoUrl: 'https://player.vimeo.com/video/229022483?autoplay=0&background=0&title=0&byline=0&portrait=0&player_id=iframe50439'
 siteUrl: 'https://www.cosavfx.com/'
-date: '2020-03-16T05:35:07.322Z'
+date: '2019.1~2019.5'
 author:
   name: Andrei
   picture: '/assets/blog/authors/tim.jpeg'

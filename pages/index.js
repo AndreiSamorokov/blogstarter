@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title> Dream is Real {CMS_NAME}</title>
+          <title> Dream is Real - {CMS_NAME}</title>
         </Head>
         <Container>
           <Intro />
