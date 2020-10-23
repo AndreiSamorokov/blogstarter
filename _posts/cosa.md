@@ -10,6 +10,12 @@ author:
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
+images:
+  q: '/assets/blog/hello-world/1.jpg'
+  b: '/assets/blog/hello-world/2.jpg'
+  z: '/assets/blog/hello-world/3.jpg'
+  x: '/assets/blog/hello-world/4.jpg'
+  y: '/assets/blog/hello-world/5.jpg'
 ---
 
 ## About Site

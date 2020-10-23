@@ -40,7 +40,7 @@ export default function Post({ post, morePosts, preview }) {
                 videoUrl={post.videoUrl}
               />
               <PostBody content={post.content} />
-              <Gallery content={post} />
+              <Gallery images={post.images} />
             </article>
           </>
         )}
@@ -59,6 +59,7 @@ export async function getStaticProps({ params }) {
     'ogImage',
     'coverImage',
     'videoUrl',
+    'images',
   ])
   const content = await markdownToHtml(post.content || '')
 

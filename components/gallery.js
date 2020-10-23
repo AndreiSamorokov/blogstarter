@@ -1,7 +1,9 @@
-export default function Gallery({ date }) {
+export default function Gallery({ images }) {
+     
+
     return (
         <div>
-            Gallery Area
+            { images.q }
         </div>
     )
   }
