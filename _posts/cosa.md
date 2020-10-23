@@ -6,7 +6,7 @@ videoUrl: 'https://player.vimeo.com/video/229022483?autoplay=0&background=0&titl
 siteUrl: 'https://www.cosavfx.com/'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Tim Neutkens
+  name: Andrei
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
