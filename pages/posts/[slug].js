@@ -4,6 +4,7 @@ import Container from '../../components/container'
 import PostBody from '../../components/post-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
+import Gallery from '../../components/gallery'
 import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
@@ -39,6 +40,7 @@ export default function Post({ post, morePosts, preview }) {
                 videoUrl={post.videoUrl}
               />
               <PostBody content={post.content} />
+              <Gallery content={post} />
             </article>
           </>
         )}
