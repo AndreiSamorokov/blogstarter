@@ -6,7 +6,7 @@ videoUrl: 'https://iberica-travel.com/files/homevideo.mp4'
 siteUrl: 'https://iberica-travel.com/'
 date: '2018.11~2019.1'
 author:
-  name: Joe Haddad
+  name: Andrei
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
