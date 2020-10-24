@@ -3,7 +3,7 @@ export default function Gallery({ images }) {
 
     return (
         <div>
-            { images.q }
+            {/* { images.q } */}
         </div>
     )
   }
